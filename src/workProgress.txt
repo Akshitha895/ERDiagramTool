@@ -1,0 +1,36 @@
+Started Working on 12 June 2022
+12/06/2022 - 4hrs
+Explore the project on how to start. create react app. 
+
+13/06/2022 - 8hrs
+Created left panel with table list and roght panel with draggable divs and tried adding svgs between draggable divs
+
+14/06/2022 - 6hrs
+react-xarrows custom svg placement with plus icon and some other icons.
+
+15/06/2022 - 6hrs
+Download Jsplumb git repo and explored the source code to understand how the line is being drawn between the endpoints. (Not of much use as the code repo is very huge and it was hard to figure it out)
+
+16/06/2022 - 8hrs
+Jsplumb integrated in code but there are lot issues with latest version, then degraded the version and could load some of the tables with endpoints
+but still the draggable feture using jsplumb is not figured out.
+
+19/06/2022 - 4hrs
+To figure out element dragging, explored jsplumb community editions with 2.x and 4.x versions. 
+Started trying to use 4.x version which is latest. Had to explore a lot as there are not proper documentations for library
+Was able to initialize using browser-ui jsplumb library. starting with one feature at a time.
+
+20/06/2022 - 6hrs
+Add Mui library, restructured the files neatly and designed the application a bit, created separate instance files for jsplumb
+Drag and drop functionality worked for tables. Have to figure out the overlays for connectors with svgs.
+
+21/06/2022 - 4hrs
+Adding custome Svg icons on to the connector
+
+22/06/2022 - 4hrs
+Analysing where to put the click event to change the svg icons. 
+Currently added event listener on the path between 2 endpoints
+
+23/06/2022 - 5hrs
+Modal opens on the path click and when closed we can set the svg icon on the line dynamically as selected for source and target .
+

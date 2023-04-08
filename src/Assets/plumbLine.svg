@@ -1,0 +1,21 @@
+<svg
+  style="position: absolute; left: 97px; top: 110px"
+  width="206"
+  height="208"
+  pointer-events="none"
+  position="absolute"
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  class="jtk-connector"
+>
+  <path
+    d="M 0 5 C 110 95 110 95 200 205 "
+    transform="translate(3,0)"
+    pointer-events="visibleStroke"
+    version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    fill="none"
+    stroke="#456"
+    stroke-width="2"
+  ></path>
+</svg>

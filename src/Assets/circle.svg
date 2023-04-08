@@ -1,0 +1,27 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="1pt"
+  height="1pt"
+  viewBox="0 0 10 10"
+  version="1.1"
+  x="0"
+>
+  <g id="surface1" transform="scale(0.7)">
+    <!-- <path
+      d="M 100  100 m -75  0 a 75 75 0 1 0 150 0 a 75 75 0 1 0 -150 0"
+      fill="green"
+      stroke="black"
+      width="1"
+    /> -->
+    <circle
+      cx="5"
+      cy="5"
+      r="5"
+      version="1.1"
+      xmlns="http://www.w3.org/2000/svg"
+      fill="#E74C3C"
+      stroke="none"
+    ></circle>
+  </g>
+</svg>
